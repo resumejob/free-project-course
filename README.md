@@ -12,10 +12,12 @@
 ### 目录
 
 - [C/C++](#cc)
+- [C#](#c)
 - [Go](#go)
 - [HTML/CSS](#html)
 - [Java](#java)
 - [Javascript](#javascript)
+- [PHP](#php)
 - [Python](#python)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -46,6 +48,11 @@
     - [牛 B 闪闪坦克大战](https://www.bilibili.com/video/av7126182)
     - [微信飞机大战](https://www.bilibili.com/video/av67260826)
     - [小游戏完整项目制作](https://www.bilibili.com/video/av65016216)
+
+### C# 
+
+- 视频
+    - [使用 ASP.NET Core 3.x 构建 RESTful Web API](https://www.bilibili.com/video/av77957694)
 
 ### Go
 
@@ -186,6 +193,7 @@
     - [PHP QRCode 生成二维码](https://www.shiyanlou.com/courses/991)
     - [PHP 实现区块链](https://toutiao.io/posts/gidnf7/preview)
     - [PHP 实现验证码制作](https://www.shiyanlou.com/courses/986)
+    - [ThinkPHP 5.1 构建简易微博](https://www.kancloud.cn/epiclearn/thinkphp)
     - [用 PHP 来实现一个动态 Web 服务器](https://segmentfault.com/a/1190000003029173)
 
 - 视频
