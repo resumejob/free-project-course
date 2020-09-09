@@ -148,7 +148,6 @@
     - [从零开始实现一个 React](https://github.com/hujiulong/blog/issues/4)
     - [利用Vue原理实现一个mini版的MVVM框架](https://zhuanlan.zhihu.com/p/51184264)
     - [如何实现一个简易编译器](http://ifanqi.top/2017/07/03/how-to-write-compiler/)
-    - [如何实现一个手帐 app](https://juejin.im/post/5d62abb45188254e81632bdc)
     - [实现一个websocket服务器](https://github.com/xiaoxiangdaiyu/websocket/blob/master/src/websocket/README.md)
     - [实现一个简单的 JavaScript 编译器](https://juejin.im/post/5c6faa25e51d4501377ba82a)
     - [实现一个简单的编译器](https://www.shymean.com/article/%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E7%BC%96%E8%AF%91%E5%99%A8)
