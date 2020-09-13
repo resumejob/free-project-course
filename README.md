@@ -1,5 +1,14 @@
 # 免费项目实战课程
 
+本文章由**海外兔 (https://osjobs.net)** 撰写，我们团队有丰富的面试官经验，提供入职套餐，入职不成功不收费。详细信息请浏览**求职课程 (https://osjobs.net/co/)**
+
+### 求职系列文章：
+
+- <a target="_blank" rel="noopener noreferrer" href="https://zhuanlan.zhihu.com/p/38431524" >程序员如何写一份更好的简历</a>
+- <a target="_blank" rel="noopener noreferrer" href="https://zhuanlan.zhihu.com/p/38432342" >如何准备技术面试</a>
+- <a target="_blank" rel="noopener noreferrer" href="https://zhuanlan.zhihu.com/p/51290709" >程序员国外求职指南</a>
+- <a target="_blank" rel="noopener noreferrer" href="https://osjobs.net/topk/" >国内大厂高频面试题</a>
+
 1. 不知道简历的项目要写什么？想边做项目边学习新技能？本项目致力于给程序员提供网络上最好的**免费项目实战课程**。
 2. 为了达到这个目标，我们搜索了国内外大量的不同平台的网络课程以及技术博客，并经过初步的筛选，免费的项目并不代表质量低，有时候免费的反而才是最好的。
 3. 网络课程质量参差不齐，学习前可以先对比再谨慎选择，若课程有涉及以下几种情况的话，请提交 issue。
