@@ -9,6 +9,12 @@
     - 错漏百出，质量非常低
 3. 课程排序按照字符串从小到大升序排列
 
+## 其他内容
+
+- [国内大厂真实高频面试题](https://github.com/resumejob/interview-questions)
+- [程序员简历例句](https://github.com/resumejob/awesome-resume)
+
+
 ### 目录
 
 - [C/C++](#cc)
