@@ -1,4 +1,16 @@
-# 免费项目实战课程
+## 介绍
+
+本项目由**海外兔** (https://osjobs.net) 维护，海外兔团队由一线互联网面试官组成，提供海内外公司一对一入职套餐以及算法课程。
+
+**入职不成功不收费。详细信息请浏览[求职课程](https://osjobs.net/co/)**
+
+## 相关项目
+
+- [大厂高频面经面试题](https://osjobs.net/topk/)
+- [程序员简历例句](https://github.com/resumejob/awesome-resume)
+- [免费项目实战课程](https://github.com/resumejob/free-project-course)
+
+## 免费项目实战课程
 
 1. 不知道简历的项目要写什么？想边做项目边学习新技能？本项目致力于给程序员提供网络上最好的**免费项目实战课程**。
 2. 为了达到这个目标，我们搜索了国内外大量的不同平台的网络课程以及技术博客，并经过初步的筛选，免费的项目并不代表质量低，有时候免费的反而才是最好的。
@@ -8,12 +20,6 @@
     - 过时，不适合当前开发环境
     - 错漏百出，质量非常低
 3. 课程排序按照字符串从小到大升序排列
-
-## 其他内容
-
-- [国内大厂真实高频面试题](https://github.com/resumejob/interview-questions)
-- [程序员简历例句](https://github.com/resumejob/awesome-resume)
-
 
 ### 目录
 
