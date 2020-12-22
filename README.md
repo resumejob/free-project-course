@@ -6,7 +6,7 @@
 
 ## 相关项目
 
-- [大厂高频面经面试题](https://osjobs.net/topk/)
+- [大厂高频面试题](https://osjobs.net/topk/)
 - [程序员简历例句](https://github.com/resumejob/awesome-resume)
 - [免费项目实战课程](https://github.com/resumejob/free-project-course)
 
