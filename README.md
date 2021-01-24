@@ -127,7 +127,6 @@
 - 视频
     - [Build a Classical Music Quiz app that renders audio and video](https://cn.udacity.com/course/advanced-android-app-development--ud855)
     - [Developing Database Application using Spring MVC and MyBatis](https://www.udemy.com/course/developing-database-application-using-spring-mvc-and-mybatis/)
-    - [Practice Java by Building Projects](https://www.udemy.com/course/practice-java-by-building-projects/)
     - [DRP 实战项目](https://study.163.com/course/courseMain.htm?courseId=1003842285)
     - [Java 实现验证码制作](https://www.imooc.com/learn/283)
     - [Servlet + Ajax 实现搜索框智能提示](https://www.imooc.com/learn/678)
