@@ -143,6 +143,7 @@
 ### Javascript
 
 - 文字
+    - [Blockcode: A visual programming toolkit](https://www.aosabook.org/en/500L/blockcode-a-visual-programming-toolkit.html)
     - [Build A Real-Time Twitter Stream with Node and React.js](https://scotch.io/tutorials/build-a-real-time-twitter-stream-with-node-and-react-js)
     - [How to Build A Blockchain in Javascript](https://freestartupkits.com/articles/technology/cryptocurrency-news-and-tips/how-to-build-a-blockchain-in-javascript-in-20-minutes/)
     - [How to Build a Chat Application using React, Redux, Redux-Saga, and Web Sockets](https://www.freecodecamp.org/news/how-to-build-a-chat-application-using-react-redux-redux-saga-and-web-sockets-47423e4bc21a/)
@@ -216,7 +217,7 @@
 ### Python
 
 - 文字
-    - [500lines](https://aosabook.org/en/index.html)
+    - [A Continuous Integration System](https://www.aosabook.org/en/500L/a-continuous-integration-system.html)
     - [Build a Todo List with Django and Test-Driven Development](https://scotch.io/tutorials/build-a-restful-api-with-flask-the-tdd-way)
     - [Build a RESTful API with Flask – The TDD Way](http://www.obeythetestinggoat.com/)
     - [(How to Write a (Lisp) Interpreter (in Python))](https://norvig.com/lispy.html)
