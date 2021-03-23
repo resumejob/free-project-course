@@ -16,11 +16,13 @@
   <sub>✨ 一对一入职套餐，<b>无需定金，入职不成功不收费</b>，详细信息请浏览<a href="https://osjobs.net/co/">求职课程</a> ✨<sub>
 </p>
 
-## 相关项目
+<br>
 
-- [大厂高频面试题](https://osjobs.net/topk/)
-- [程序员简历例句](https://github.com/resumejob/awesome-resume)
-- [免费项目实战课程](https://github.com/resumejob/free-project-course)
+| 热门项目     | 链接 |
+| ----------- | ----------- |
+| 简历例句     | <a href="https://github.com/resumejob/awesome-resume">https://github.com/resumejob/awesome-resume</a>      |
+| 大厂高频面经面试题      | <a href="https://osjobs.net/topk/">https://osjobs.net/topk/</a>      |
+| 免费项目实战课程   | <a href="https://github.com/resumejob/free-project-course">https://github.com/resumejob/free-project-course/</a>        |
 
 ## 免费项目实战课程
 
