@@ -109,7 +109,6 @@
     - [How to build an HTML calculator app from scratch using JavaScript](https://www.freecodecamp.org/news/how-to-build-an-html-calculator-app-from-scratch-using-javascript-4454b8714b98/)
     - [基于 HTML5 Canvas实现小游戏](https://www.shiyanlou.com/courses/361)
     - [基于 HTML5 实现本地图片裁剪](https://www.shiyanlou.com/courses/363)
-    - [网页版拼图游戏](https://www.shiyanlou.com/courses/161)
 
 - 视频
 
