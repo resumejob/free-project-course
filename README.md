@@ -52,17 +52,17 @@
 ### 不限
 
 - 文字
-    - [Google Cloud - Building a serverless DevOps pipeline for Salesforce with Cloud Build](https://cloud.google.com/architecture/building-a-serverless-devops-pipeline-for-salesforce)
-    - [Google Cloud - Building a BigQuery data lineage system using audit logs, Pub/Sub, ZetaSQL, Dataflow, and Data Catalog](https://cloud.google.com/architecture/building-a-bigquery-data-lineage-solution)
-    - [Google Cloud - Building a streaming video analytics pipeline](https://cloud.google.com/architecture/building-a-streaming-video-analytics-pipeline)
-    - [Google Cloud - Build a Mobile App Using Compute Engine and REST](https://cloud.google.com/architecture/mobile-compute-engine-rest)
-    - [Google Cloud - Build a Mobile App Using Google Compute Engine and gRPC](https://cloud.google.com/architecture/mobile-compute-engine-grpc)
-    - [Google Cloud - Detecting anomalies in financial transactions by using AI Platform, Dataflow, and BigQuery](https://cloud.google.com/architecture/detecting-anomalies-in-financial-transactions)
-    - [Google Cloud - Building a secure anomaly detection solution using Dataflow, BigQuery ML, and Cloud Data Loss Prevention](https://cloud.google.com/architecture/building-anomaly-detection-dataflow-bigqueryml-dlp)
-    - [Google Cloud - Building an e-commerce recommendation system by using BigQuery ML](https://cloud.google.com/architecture/building-a-recommendation-system-with-bigqueryml)
-    - [Google Cloud - Building a ML vision analytics solution with Dataflow and Cloud Vision API](https://cloud.google.com/architecture/building-a-vision-analytics-solution)
-    - [Google Cloud - Building multi-architecture container images for IoT devices](https://cloud.google.com/architecture/building-multi-architecture-container-images-iot-devices-tutorial)
-    - [Google Cloud - Creating a unified app analytics platform using Firebase, BigQuery, and Looker](https://cloud.google.com/architecture/creating-unified-app-analytics-platform)
+    - [Google Cloud - Building a serverless DevOps pipeline for Salesforce with Cloud Build（可选中文）](https://cloud.google.com/architecture/building-a-serverless-devops-pipeline-for-salesforce)
+    - [Google Cloud - Building a BigQuery data lineage system using audit logs, Pub/Sub, ZetaSQL, Dataflow, and Data Catalog（可选中文）](https://cloud.google.com/architecture/building-a-bigquery-data-lineage-solution)
+    - [Google Cloud - Building a streaming video analytics pipeline（可选中文）](https://cloud.google.com/architecture/building-a-streaming-video-analytics-pipeline)
+    - [Google Cloud - Build a Mobile App Using Compute Engine and REST（可选中文）](https://cloud.google.com/architecture/mobile-compute-engine-rest)
+    - [Google Cloud - Build a Mobile App Using Google Compute Engine and gRPC（可选中文）](https://cloud.google.com/architecture/mobile-compute-engine-grpc)
+    - [Google Cloud - Detecting anomalies in financial transactions by using AI Platform, Dataflow, and BigQuery（可选中文）](https://cloud.google.com/architecture/detecting-anomalies-in-financial-transactions)
+    - [Google Cloud - Building a secure anomaly detection solution using Dataflow, BigQuery ML, and Cloud Data Loss Prevention（可选中文）](https://cloud.google.com/architecture/building-anomaly-detection-dataflow-bigqueryml-dlp)
+    - [Google Cloud - Building an e-commerce recommendation system by using BigQuery ML（可选中文）](https://cloud.google.com/architecture/building-a-recommendation-system-with-bigqueryml)
+    - [Google Cloud - Building a ML vision analytics solution with Dataflow and Cloud Vision API（可选中文）](https://cloud.google.com/architecture/building-a-vision-analytics-solution)
+    - [Google Cloud - Building multi-architecture container images for IoT devices（可选中文）](https://cloud.google.com/architecture/building-multi-architecture-container-images-iot-devices-tutorial)
+    - [Google Cloud - Creating a unified app analytics platform using Firebase, BigQuery, and Looker（可选中文）](https://cloud.google.com/architecture/creating-unified-app-analytics-platform)
 
 ### C/C++
 
