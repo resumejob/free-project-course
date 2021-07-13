@@ -37,7 +37,7 @@
 
 ### 目录
 
-- [一般](#一般)
+- [不限](#不限)
 - [C/C++](#cc)
 - [C#](#c)
 - [Go](#go)
@@ -49,7 +49,7 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 
-### 一般
+### 不限
 
 - 文字
     - [Google Cloud - Building a serverless DevOps pipeline for Salesforce with Cloud Build](https://cloud.google.com/architecture/building-a-serverless-devops-pipeline-for-salesforce)
