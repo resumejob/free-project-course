@@ -255,7 +255,7 @@
 
 - 文字
     - [A Continuous Integration System](https://www.aosabook.org/en/500L/a-continuous-integration-system.html)
-    - [Build a Todo List with Django and Test-Driven Development](https://scotch.io/tutorials/build-a-restful-api-with-flask-the-tdd-way)
+    - [Build a Bucketlist List with Flask](https://scotch.io/tutorials/build-a-restful-api-with-flask-the-tdd-way)
     - [Build a RESTful API with Flask – The TDD Way](http://www.obeythetestinggoat.com/)
     - [(How to Write a (Lisp) Interpreter (in Python))](https://norvig.com/lispy.html)
     - [How To Build Chatbot Project Using Python](https://hackernoon.com/python-chatbot-project-build-your-first-python-project-5mt30mi)
