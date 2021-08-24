@@ -51,8 +51,8 @@
 
 ### 不限
 
-- Google Cloud（可选中文）
-    - 服务端
+- Google Cloud Platform
+    - Backend
     - [Building a serverless DevOps pipeline for Salesforce with Cloud Build](https://cloud.google.com/architecture/building-a-serverless-devops-pipeline-for-salesforce)
     - [Building a BigQuery data lineage system using audit logs, Pub/Sub, ZetaSQL, Dataflow, and Data Catalog](https://cloud.google.com/architecture/building-a-bigquery-data-lineage-solution)
     - [Building a streaming video analytics pipeline](https://cloud.google.com/architecture/building-a-streaming-video-analytics-pipeline)
@@ -62,15 +62,25 @@
     - [Creating a CI/CD pipeline with Azure Pipelines and Google Kubernetes Engine](https://cloud.google.com/architecture/creating-cicd-pipeline-vsts-kubernetes-engine)
     - [Building multi-architecture container images for IoT devices](https://cloud.google.com/architecture/building-multi-architecture-container-images-iot-devices-tutorial)
     - [Creating a unified app analytics platform using Firebase, BigQuery, and Looker](https://cloud.google.com/architecture/creating-unified-app-analytics-platform)
-    - 人工智能
+    - Machine Learning
     - [Detecting anomalies in financial transactions by using AI Platform, Dataflow, and BigQuery](https://cloud.google.com/architecture/detecting-anomalies-in-financial-transactions)
     - [Building a secure anomaly detection solution using Dataflow, BigQuery ML, and Cloud Data Loss Prevention](https://cloud.google.com/architecture/building-anomaly-detection-dataflow-bigqueryml-dlp)
     - [Building a ML vision analytics solution with Dataflow and Cloud Vision API](https://cloud.google.com/architecture/building-a-vision-analytics-solution)
-    - 移动端
+    - Mobile
     - [Build an Android App Using Firebase and the App Engine Flexible Environment](https://cloud.google.com/architecture/mobile-firebase-app-engine-flexible)
     - [Build a Mobile App Using Compute Engine and REST](https://cloud.google.com/architecture/mobile-compute-engine-rest)
     - [Build a Mobile App Using Google Compute Engine and gRPC](https://cloud.google.com/architecture/mobile-compute-engine-grpc)
     - [Build an iOS App Using Firebase and the App Engine Flexible Environment](https://cloud.google.com/architecture/mobile-firebase-app-engine-flexible-ios)
+
+- Amazon Web Services
+    - Server
+    - [Build a turn-based game with Amazon DynamoDB and Amazon SNS](https://aws.amazon.com/getting-started/hands-on/turn-based-game-dynamodb-amazon-sns/?nc1=h_ls)
+    - [Orchestrate Queue-based Microservices with AWS Step Functions and Amazon SQS](https://aws.amazon.com/getting-started/hands-on/orchestrate-microservices-with-message-queues-on-step-functions/)
+    - [Send Fanout Event Notifications with SQS and SNS](https://aws.amazon.com/getting-started/hands-on/send-fanout-event-notifications/)
+    - Machine Learning
+    - [Detect, Analyze, and Compare Faces with Amazon Rekognition](https://aws.amazon.com/getting-started/hands-on/detect-analyze-compare-faces-rekognition/)
+    - [Analyze insights in text with Amazon Comprehend](https://aws.amazon.com/getting-started/hands-on/analyze-sentiment-comprehend/)
+    - [Analyze Video & Extract Rich Metadata with Amazon Rekognition Video](https://aws.amazon.com/getting-started/hands-on/analyze-extract-metadata-video-rekognition/)
 
 ### C/C++
 
