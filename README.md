@@ -24,20 +24,20 @@
 | 大厂高频面经面试题      | <a href="https://osjobs.net/topk/">https://osjobs.net/topk/</a>      |
 | 免费项目实战课程   | <a href="https://github.com/resumejob/free-project-course">https://github.com/resumejob/free-project-course/</a>        |
 
-## 免费项目实战课程
+## Free Online Course
 
-1. 不知道简历的项目要写什么？想边做项目边学习新技能？本项目致力于给程序员提供网络上最好的**免费项目实战课程**。
-2. 为了达到这个目标，我们搜索了国内外大量的不同平台的网络课程以及技术博客，并经过初步的筛选，免费的项目并不代表质量低，有时候免费的反而才是最好的。
-3. 网络课程质量参差不齐，学习前可以先对比再谨慎选择，若课程有涉及以下几种情况的话，请提交 issue。
-    - 涉及大量广告
-    - 需要付费才能学习完整课程
-    - 过时，不适合当前开发环境
-    - 错漏百出，质量非常低
-3. 课程排序按照字符串从小到大升序排列
+1. If you want to highlight your resume with meaningful project experience, or you want to learn new skills by the new project, here's the right place!
+2. Sometimes free can be the best. We selected a large number of online courses and tech blogs to present the best free real projects for you.
+3. If a course involves the following situations, please submit an issue.
+3.1 Paid course: course you need to pay for a full study;
+3.2 Obsolete course: tool version, APIs or datasets used in the course is out of date;
+3.3 Inaccurate course: course has an apparent error or is inconsistent.
+4. The following course is in order from A~Z.
 
-### 目录
 
-- [不限](#不限)
+### Table Of Contents
+
+- [Cloud Platform](#cloud-platform)
 - [C/C++](#cc)
 - [C#](#c)
 - [Go](#go)
@@ -49,7 +49,7 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 
-### 不限
+### Cloud Platform
 
 - Google Cloud Platform
     - Backend
