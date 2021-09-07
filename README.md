@@ -56,6 +56,7 @@
     - [Building a serverless DevOps pipeline for Salesforce with Cloud Build](https://cloud.google.com/architecture/building-a-serverless-devops-pipeline-for-salesforce)
     - [Building a BigQuery data lineage system using audit logs, Pub/Sub, ZetaSQL, Dataflow, and Data Catalog](https://cloud.google.com/architecture/building-a-bigquery-data-lineage-solution)
     - [Building a streaming video analytics pipeline](https://cloud.google.com/architecture/building-a-streaming-video-analytics-pipeline)
+    - [Categorizing audio content using machine learning](https://cloud.google.com/architecture/categorizing-audio-files-using-ml)
     - [Building an e-commerce recommendation system by using BigQuery ML](https://cloud.google.com/architecture/building-a-recommendation-system-with-bigqueryml)
     - [Building a real-time embeddings similarity matching system](https://cloud.google.com/architecture/building-real-time-embeddings-similarity-matching-system)
     - [Continuous delivery pipelines with Spinnaker and GKE](https://cloud.google.com/architecture/continuous-delivery-spinnaker-kubernetes-engine)
