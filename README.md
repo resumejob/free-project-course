@@ -106,9 +106,6 @@
     - [C++ 解决迷宫问题](https://www.shiyanlou.com/courses/1218)
     - [C++ 使用 openGL 实现吃豆人游戏](https://www.shiyanlou.com/courses/1182)
     - [C++ 项目实战](https://www.bilibili.com/video/av62785783)
-    - [牛 B 闪闪坦克大战](https://www.bilibili.com/video/av7126182)
-    - [微信飞机大战](https://www.bilibili.com/video/av67260826)
-    - [小游戏完整项目制作](https://www.bilibili.com/video/av65016216)
 
 ### C# 
 
