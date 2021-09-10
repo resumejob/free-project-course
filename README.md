@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img height="100" src="https://raw.githubusercontent.com/resumejob/awesome-resume/master/imgs/rabbit-256.png" alt="osjobs" /> <br> <br> 海外兔
+  <img height="100" src="https://raw.githubusercontent.com/resumejob/awesome-resume/master/imgs/rabbit-256.png" alt="osjobs" /> <br> <br> 赞助商：海外兔
 </h1>
 
 <p align="center">
@@ -37,6 +37,7 @@
 
 ### Table Of Contents
 
+- [Android](#android)
 - [Cloud Platform](#cloud-platform)
 - [C/C++](#cc)
 - [C#](#c)
@@ -48,6 +49,13 @@
 - [Python](#python)
 - [Ruby](#ruby)
 - [Rust](#rust)
+- [Swift](#swift)
+
+### Android
+
+- 视频
+    - [Built a basketball scores App](https://www.udacity.com/course/android-basics-user-input--ud836)
+    - [Build a multiscreen App](https://www.udacity.com/course/android-basics-multiscreen-apps--ud839)
 
 ### Cloud Platform
 
@@ -295,3 +303,8 @@
     - [使用 Python 实现文字聊天室](https://www.shiyanlou.com/courses/970)
     - [使用 Django 搭建博客](https://www.imooc.com/learn/790)
     - [天天生鲜 Django 项目](https://www.bilibili.com/video/av41733850)
+
+### Swift
+
+- 视频
+    - [Build a On the Map App](https://www.udacity.com/course/ios-networking-with-swift--ud421)
