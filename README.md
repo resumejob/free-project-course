@@ -126,6 +126,7 @@
     - [A Guide to Golang E-Commerce](https://snipcart.com/blog/golang-ecommerce-ponzu-cms-demo?utm_term=golang-ecommerce-ponzu-cms-demo)
     - [A Million WebSockets and Go](https://www.freecodecamp.org/news/million-websockets-and-go-cc58418460bb/)
     - [Build a concurrent TCP server in Go](https://opensource.com/article/18/5/building-concurrent-tcp-server-go)
+    - [Building a high performance JSON parser](https://dave.cheney.net/high-performance-json.html)
     - [Build a Todo App in Golang, MongoDB, and React](https://levelup.gitconnected.com/build-a-todo-app-in-golang-mongodb-and-react-e1357b4690a6)
     - [Build a web application in Go](https://www.sohamkamani.com/blog/2017/09/13/how-to-build-a-web-application-in-golang/)
     - [Building Blockchain in Go](https://jeiwan.net/posts/building-blockchain-in-go-part-1/)
