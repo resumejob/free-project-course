@@ -72,14 +72,16 @@
     - [Building multi-architecture container images for IoT devices](https://cloud.google.com/architecture/building-multi-architecture-container-images-iot-devices-tutorial)
     - [Creating a unified app analytics platform using Firebase, BigQuery, and Looker](https://cloud.google.com/architecture/creating-unified-app-analytics-platform)
     - Machine Learning
-    - [Detecting anomalies in financial transactions by using AI Platform, Dataflow, and BigQuery](https://cloud.google.com/architecture/detecting-anomalies-in-financial-transactions)
+    - [Architecture of a machine learning system for near real-time item matching](https://cloud.google.com/architecture/real-time-item-matching)
     - [Building a secure anomaly detection solution using Dataflow, BigQuery ML, and Cloud Data Loss Prevention](https://cloud.google.com/architecture/building-anomaly-detection-dataflow-bigqueryml-dlp)
+    - [Building a k-means clustering model for market segmentation by using BigQuery ML ](https://cloud.google.com/architecture/building-k-means-clustering-model)
     - [Building a ML vision analytics solution with Dataflow and Cloud Vision API](https://cloud.google.com/architecture/building-a-vision-analytics-solution)
     - Mobile
     - [Build an Android App Using Firebase and the App Engine Flexible Environment](https://cloud.google.com/architecture/mobile-firebase-app-engine-flexible)
+    - [Build an iOS App Using Firebase and the App Engine Flexible Environment](https://cloud.google.com/architecture/mobile-firebase-app-engine-flexible-ios)
     - [Build a Mobile App Using Compute Engine and REST](https://cloud.google.com/architecture/mobile-compute-engine-rest)
     - [Build a Mobile App Using Google Compute Engine and gRPC](https://cloud.google.com/architecture/mobile-compute-engine-grpc)
-    - [Build an iOS App Using Firebase and the App Engine Flexible Environment](https://cloud.google.com/architecture/mobile-firebase-app-engine-flexible-ios)
+    - [Detecting anomalies in financial transactions by using AI Platform, Dataflow, and BigQuery](https://cloud.google.com/architecture/detecting-anomalies-in-financial-transactions)
 
 - Amazon Web Services
     - Server
