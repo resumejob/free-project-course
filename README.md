@@ -229,6 +229,7 @@
     - [Building High Conversion Web Forms](https://cn.udacity.com/course/building-high-conversion-web-forms--ud890)
     - [JavaScript 3 projects - Input form Exercise and Generators](https://www.udemy.com/course/javascript-project-course/)
     - [JavaScript Number Guessing Game - JavaScript DOM](https://www.udemy.com/course/javascript-number-game/)
+    - [Data Visualization and D3.js](https://www.udacity.com/course/data-visualization-and-d3js--ud507)
     - [Learn Modern Javascript by Coding a Snake Game](https://www.udemy.com/course/learn-modern-javascript-by-coding-a-snake-game/)
     - [Pure JavaScript Calculator - JavaScript ES6 Learn JavaScript](https://www.udemy.com/course/javascript-code-exercise/)
     - [React JS to build a News App](https://www.udemy.com/course/react-tutorial/)
