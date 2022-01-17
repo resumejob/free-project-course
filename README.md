@@ -222,6 +222,7 @@
     - [Build a Pet Hotel web app with React using ScaffoldHub](https://www.udemy.com/course/react-pet-hotel/)
     - [Build an E-commerce website with Django and React](https://www.udemy.com/course/build-an-e-commerce-website-with-django-and-react/)
     - [Build and Deploy a Modern Full Stack Social Media App](https://www.youtube.com/watch?v=1RHDhtbqo94)
+    - [Build and Deploy a Modern Web 3.0 Blockchain App](https://www.youtube.com/watch?v=Wn_Kb3MR_cU)
     - [Data Visualization and D3.js](https://www.udacity.com/course/data-visualization-and-d3js--ud507)
     - [Full Stack Web Development Project like Netflix](https://www.youtube.com/watch?v=EKQCQL1G1JU)
     - [Let's Build a Full-Stack AMAZON Clone with REACT JS for Beginners](https://www.youtube.com/watch?v=RDV3Z1KCBvo)
