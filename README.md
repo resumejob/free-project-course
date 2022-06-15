@@ -6,8 +6,8 @@
 </h3>
 
 <h4 align="center">
-  <a href="https://osjobs.net/co/#pricing">
-    📜 免费获取 6 个精心设计的简历模版，提升 200% 通过筛选概率
+  <a href="https://osjobs.net/co/">
+    海外兔小班教学帮助你高效准备面试，学员大厂率超过 60%，入职不成功不收费。
   </a>
 </h4>
 
@@ -50,6 +50,8 @@
 - 视频
     - [Built a basketball scores App](https://www.udacity.com/course/android-basics-user-input--ud836)
     - [Build a multiscreen App](https://www.udacity.com/course/android-basics-multiscreen-apps--ud839)
+    - [Food App Android Design](https://www.youtube.com/watch?v=9nWcPPHBzMk)
+    - [Making Weather App in Android Studio](https://www.youtube.com/watch?v=q7NF-2gtfEU)
 
 ### Cloud Platform
 
@@ -135,6 +137,7 @@
     - [从零开始实现一个 RPC 框架](https://juejin.im/post/5c7b9967518825470368d8d4)
 
 - 视频
+    - [GOLANG + REACT - SAAS PROJECT](https://www.youtube.com/watch?v=IX0vKYZUnP4)
     - [Go 开发企业级内容管理平台](https://www.imooc.com/coursescore/1162)
     - [Go 开发短地址服务](https://www.imooc.com/coursescore/1150)
     - [Golang 微信小程序微商城系统原型](https://www.imooc.com/learn/1151)
@@ -178,6 +181,7 @@
 - 视频
     - [Build a Classical Music Quiz app that renders audio and video](https://cn.udacity.com/course/advanced-android-app-development--ud855)
     - [Developing Database Application using Spring MVC and MyBatis](https://www.udemy.com/course/developing-database-application-using-spring-mvc-and-mybatis/)
+    - [Full Stack web application using Spring Boot and React | REST API | MySQL | React Hooks](https://www.youtube.com/watch?v=O_XL9oQ1_To)
     - [DRP 实战项目](https://study.163.com/course/courseMain.htm?courseId=1003842285)
     - [Java 实现验证码制作](https://www.imooc.com/learn/283)
     - [Servlet + Ajax 实现搜索框智能提示](https://www.imooc.com/learn/678)
@@ -225,6 +229,7 @@
     - [Build and Deploy a Modern Web 3.0 Blockchain App](https://www.youtube.com/watch?v=Wn_Kb3MR_cU)
     - [Data Visualization and D3.js](https://www.udacity.com/course/data-visualization-and-d3js--ud507)
     - [Full Stack Web Development Project like Netflix](https://www.youtube.com/watch?v=EKQCQL1G1JU)
+    - [Full Stack Food Delivery App - React Redux Reducer, Firebase | For Beginners](https://www.youtube.com/watch?v=kmU7uX3ZHJc)
     - [Let's Build a Full-Stack AMAZON Clone with REACT JS for Beginners](https://www.youtube.com/watch?v=RDV3Z1KCBvo)
     - [Pure JavaScript Calculator - JavaScript ES6 Learn JavaScript](https://www.udemy.com/course/javascript-code-exercise/)
     - [React JS to build a News App](https://www.udemy.com/course/react-tutorial/)
@@ -294,6 +299,7 @@
     - [Learn Python: Build a Virtual Assistant](https://www.udemy.com/course/learn-python-build-a-virtual-assistant-in-python/)
     - [Use Flask web framework to build a web application](https://cn.udacity.com/course/full-stack-foundations--ud088)
     - [Use PyTorch to implement a recurrent neural network that can classify text](https://cn.udacity.com/course/deep-learning-pytorch--ud188)
+    - [Python Website Full Tutorial - Flask, Authentication, Databases & More](https://www.youtube.com/watch?v=dam0GPOAvVI)
     - [Python 开发简单爬虫](https://www.imooc.com/learn/563)
     - [Python 爬虫基础教程](https://www.bilibili.com/video/av17920849)
     - [零基础玩转高并发图片爬虫](https://study.163.com/course/courseMain.htm?courseId=1006148015)
