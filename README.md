@@ -49,9 +49,9 @@
 
 - 视频
     - [Built a basketball scores App](https://www.udacity.com/course/android-basics-user-input--ud836)
-    - [Build a multiscreen App](https://www.udacity.com/course/android-basics-multiscreen-apps--ud839)
     - [Food App Android Design](https://www.youtube.com/watch?v=9nWcPPHBzMk)
     - [Making Weather App in Android Studio](https://www.youtube.com/watch?v=q7NF-2gtfEU)
+    - [Creating Chatting Application in Android Studio Using Kotlin](https://www.youtube.com/watch?v=8Pv96bvBJL4)
 
 ### Cloud Platform
 
@@ -59,7 +59,6 @@
     - Backend
     - [Building a serverless DevOps pipeline for Salesforce with Cloud Build](https://cloud.google.com/architecture/building-a-serverless-devops-pipeline-for-salesforce)
     - [Building a BigQuery data lineage system using audit logs, Pub/Sub, ZetaSQL, Dataflow, and Data Catalog](https://cloud.google.com/architecture/building-a-bigquery-data-lineage-solution)
-    - [Building a streaming video analytics pipeline](https://cloud.google.com/architecture/building-a-streaming-video-analytics-pipeline)
     - [Building an e-commerce recommendation system by using BigQuery ML](https://cloud.google.com/architecture/building-a-recommendation-system-with-bigqueryml)
     - [Building a headless ecommerce platform on Google Cloud](https://cloud.google.com/architecture/building-headless-ecommerce-platform?hl=en&skip_cache=true)
     - [Building a real-time embeddings similarity matching system](https://cloud.google.com/architecture/building-real-time-embeddings-similarity-matching-system)
@@ -110,6 +109,8 @@
     - [缓冲区溢出漏洞实验](https://www.shiyanlou.com/courses/231)
 
 - 视频
+    - [Supermarket Billing System Project In C++](https://www.youtube.com/watch?v=xFwwN4lGG0o)
+    - [Hotel Management System Project In C++](https://www.youtube.com/watch?v=HarwDzStkLY)
     - [Learn C++ Game Development](https://www.udemy.com/course/learn-c-game-development/)
     - [C++ 解决迷宫问题](https://www.shiyanlou.com/courses/1218)
     - [C++ 使用 openGL 实现吃豆人游戏](https://www.shiyanlou.com/courses/1182)
@@ -139,6 +140,7 @@
 
 - 视频
     - [GOLANG + REACT - SAAS PROJECT](https://www.youtube.com/watch?v=IX0vKYZUnP4)
+    - [GOLANG PROJECT - Restaurant Management Backend](https://www.youtube.com/watch?v=QQfyTmz3a18&list=PLQ9_95hffac8_0bj5oeCe4FdxeNZi0UJ2)
     - [Go 开发企业级内容管理平台](https://www.imooc.com/coursescore/1162)
     - [Go 开发短地址服务](https://www.imooc.com/coursescore/1150)
     - [Golang 微信小程序微商城系统原型](https://www.imooc.com/learn/1151)
@@ -219,26 +221,28 @@
     - [实现一个简单的编译器](https://www.shymean.com/article/%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E7%BC%96%E8%AF%91%E5%99%A8)
 
 - 视频
-    - [Build a Quiz App with HTML, CSS, and JavaScript](https://www.udemy.com/course/build-a-quiz-app-with-html-css-and-javascript/)
-    - [Build a simple chat system in JavaScript](https://www.udemy.com/course/build-a-simple-chat-system-in-javascript/)
     - [Build a Pet Hotel web app with React using ScaffoldHub](https://www.udemy.com/course/react-pet-hotel/)
     - [Build an E-commerce website with Django and React](https://www.udemy.com/course/build-an-e-commerce-website-with-django-and-react/)
+    - [Build and Deploy a Better Spotify 2.0 Clone Music App with React 18!](https://www.youtube.com/watch?v=I1cpb0tYV74&list=PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR&index=2)
+    - [Build and Deploy a Full Stack TikTok Clone Application](https://www.youtube.com/watch?v=CcBHZ0t2Qwc&list=PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR&index=4)
     - [Build and Deploy a Modern Full Stack Social Media App](https://www.youtube.com/watch?v=1RHDhtbqo94)
+    - [Build and Deploy a Modern React 18 Fitness Exercises App](https://www.youtube.com/watch?v=KBpoBc98BwM&list=PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR&index=5)
     - [Build and Deploy a Modern Web 3.0 Blockchain App](https://www.youtube.com/watch?v=Wn_Kb3MR_cU)
+    - [Build and Deploy a Modern YouTube Clone Application in React JS with Material UI 5](https://www.youtube.com/watch?v=FHTbsZEJspU&list=PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR&index=3)
     - [Data Visualization and D3.js](https://www.udacity.com/course/data-visualization-and-d3js--ud507)
     - [Full Stack Web Development Project like Netflix](https://www.youtube.com/watch?v=EKQCQL1G1JU)
     - [Full Stack Food Delivery App - React Redux Reducer, Firebase | For Beginners](https://www.youtube.com/watch?v=kmU7uX3ZHJc)
     - [Let's Build a Full-Stack AMAZON Clone with REACT JS for Beginners](https://www.youtube.com/watch?v=RDV3Z1KCBvo)
+    - [Let's Build the Netflix App in React Native & AWS Amplify](https://www.youtube.com/watch?v=CNaLOa-6X7U)
     - [Let's build Uber 2.0 with REACT NATIVE! (Navigation, Redux, Tailwind CSS & Google Autocomplete)](https://www.youtube.com/watch?v=bvn_HYpix6s)
-    - [Pure JavaScript Calculator - JavaScript ES6 Learn JavaScript](https://www.udemy.com/course/javascript-code-exercise/)
+    - [React Crash Course - Build A Full Recipe App Tutorial](https://www.youtube.com/watch?v=xc4uOzlndAk)
     - [React JS to build a News App](https://www.udemy.com/course/react-tutorial/)
+    - [React & Node ECommerce Tutorial For Beginners 2022](https://www.youtube.com/watch?v=CDtPMR5y0QU)
     - [Start 3D GIS Web Development in JavaScript](https://www.udemy.com/course/start-3d-gis-web-development/)
     - [React Node.js E-Commerce App Full Tutorial](https://www.youtube.com/watch?v=y66RgYMAgSo)
     - [Node.js 终端问答程序开发实战](https://www.jikexueyuan.com/course/2288.html)
     - [React 项目实战](https://www.jikexueyuan.com/course/2102.html)
-    - [Cocos2d-js 实战-横版回合制 rpg 游戏之城市篇](https://www.jikexueyuan.com/course/1852.html)
     - [CSS3 + JS 实现超炫的散列画廊特效](https://www.imooc.com/learn/366)
-    - [JS 实现“旋转木马”幻灯片效果](https://www.imooc.com/learn/386)
     - [5 个企业项目拿下 React 全家桶](https://study.163.com/course/courseMain.htm?courseId=1208990812)
     - [从头实现一个 koa 框架](https://zhuanlan.zhihu.com/p/35040744)
     - [从零做一个前端开源项目](https://www.imooc.com/learn/1003)
