@@ -221,6 +221,7 @@
     - [实现一个简单的编译器](https://www.shymean.com/article/%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E7%BC%96%E8%AF%91%E5%99%A8)
 
 - 视频
+    - [Build a Invoice App With Vue 3, Vuex & Firebase](https://www.youtube.com/watch?v=vsJtN54aA7w)
     - [Build a Pet Hotel web app with React using ScaffoldHub](https://www.udemy.com/course/react-pet-hotel/)
     - [Build an E-commerce website with Django and React](https://www.udemy.com/course/build-an-e-commerce-website-with-django-and-react/)
     - [Build and Deploy a Better Spotify 2.0 Clone Music App with React 18!](https://www.youtube.com/watch?v=I1cpb0tYV74&list=PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR&index=2)
