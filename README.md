@@ -82,7 +82,10 @@
 
 - Amazon Web Services
     - Server
+    - [Build an Android Application](https://aws.amazon.com/getting-started/hands-on/build-android-app-amplify/)
+    - [Build a Flutter Mobile App Using AWS Amplify - Part 1](https://aws.amazon.com/getting-started/hands-on/build-flutter-mobile-app-part-one/)
     - [Build a turn-based game with Amazon DynamoDB and Amazon SNS](https://aws.amazon.com/getting-started/hands-on/turn-based-game-dynamodb-amazon-sns/?nc1=h_ls)
+    - [Build a Full-Stack React Application](https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/)
     - [Orchestrate Queue-based Microservices with AWS Step Functions and Amazon SQS](https://aws.amazon.com/getting-started/hands-on/orchestrate-microservices-with-message-queues-on-step-functions/)
     - [Send Fanout Event Notifications with SQS and SNS](https://aws.amazon.com/getting-started/hands-on/send-fanout-event-notifications/)
     - Machine Learning
@@ -278,9 +281,9 @@
     - [Build a Bucketlist List with Flask](https://scotch.io/tutorials/build-a-restful-api-with-flask-the-tdd-way)
     - [Build a RESTful API with Flask – The TDD Way](http://www.obeythetestinggoat.com/)
     - [Build a full stack web application. Next.JS and Django Project](https://www.youtube.com/watch?v=zS3vKMbsUfY)
+    - [Get Started With Django Part 1: Build a Portfolio App](https://realpython.com/get-started-with-django-1/#share-your-knowledge-with-a-blog)
     - [(How to Write a (Lisp) Interpreter (in Python))](https://norvig.com/lispy.html)
     - [How To Build Chatbot Project Using Python](https://hackernoon.com/python-chatbot-project-build-your-first-python-project-5mt30mi)
-    - [Web Scraping 101](http://www.byperth.com/2018/04/25/guide-web-scraping-101-what-you-need-to-know-and-how-to-scrape-with-python-selenium-webdriver/)
     - [Scraping Top 50 Movies on IMDb using BeautifulSoup](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1)
     - [Django 打造文件分享系统](https://www.shiyanlou.com/courses/993)
     - [Python Flask Web 框架](https://www.shiyanlou.com/courses/29)
