@@ -138,7 +138,7 @@
     - [Create A Real Time Chat App With Golang, Angular, And Websockets](https://www.thepolyglotdeveloper.com/2016/12/create-real-time-chat-app-golang-angular-2-websockets/)
     - [How To Create Your Own CLI](https://itnext.io/how-to-create-your-own-cli-with-golang-3c50727ac608)
     - [Writing A Web Crawler in Golang](https://edmundmartin.com/writing-a-web-crawler-in-golang/)
-    - [250行 实现一个简单的 MVVM](https://saul-mirone.github.io/2016/12/19/simple-mvvm/)
+    - [250 行实现一个简单的 MVVM](https://saul-mirone.github.io/2016/12/19/simple-mvvm/)
     - [从零开始实现一个 RPC 框架](https://juejin.im/post/5c7b9967518825470368d8d4)
 
 - 视频
@@ -147,15 +147,13 @@
     - [Go 开发企业级内容管理平台](https://www.imooc.com/coursescore/1162)
     - [Go 开发短地址服务](https://www.imooc.com/coursescore/1150)
     - [Golang 微信小程序微商城系统原型](https://www.imooc.com/learn/1151)
-    - [基于 gin 框架和 gorm 的 web 开发实战](https://www.bilibili.com/video/av82949383)
+    - [基于 Gin 框架和 gorm 的 web 开发实战](https://www.bilibili.com/video/av82949383)
 
 ### HTML/CSS
 
 - 文字
     - [Build A Real-World HTML5 & CSS3 Responsive Website From Scratch](https://codingthesmartway.com/build-a-real-world-html5-css3-responsive-website-from-scratch/)
     - [How to build an HTML calculator app from scratch using JavaScript](https://www.freecodecamp.org/news/how-to-build-an-html-calculator-app-from-scratch-using-javascript-4454b8714b98/)
-    - [基于 HTML5 Canvas实现小游戏](https://www.shiyanlou.com/courses/361)
-    - [基于 HTML5 实现本地图片裁剪](https://www.shiyanlou.com/courses/363)
 
 - 视频
 
