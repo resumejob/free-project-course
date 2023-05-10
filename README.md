@@ -58,7 +58,6 @@
 - Google Cloud Platform
     - Backend
     - [Building a serverless DevOps pipeline for Salesforce with Cloud Build](https://cloud.google.com/architecture/building-a-serverless-devops-pipeline-for-salesforce)
-    - [Building a BigQuery data lineage system using audit logs, Pub/Sub, ZetaSQL, Dataflow, and Data Catalog](https://cloud.google.com/architecture/building-a-bigquery-data-lineage-solution)
     - [Building an e-commerce recommendation system by using BigQuery ML](https://cloud.google.com/architecture/building-a-recommendation-system-with-bigqueryml)
     - [Building a headless ecommerce platform on Google Cloud](https://cloud.google.com/architecture/building-headless-ecommerce-platform?hl=en&skip_cache=true)
     - [Building a real-time embeddings similarity matching system](https://cloud.google.com/architecture/building-real-time-embeddings-similarity-matching-system)
@@ -309,6 +308,14 @@
     - [Python 爬虫基础教程](https://www.bilibili.com/video/av17920849)
     - [零基础玩转高并发图片爬虫](https://study.163.com/course/courseMain.htm?courseId=1006148015)
     - [天天生鲜 Django 项目](https://www.bilibili.com/video/av41733850)
+
+### Rust
+
+- 文字
+    - [Let's build a browser engine!](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
+    - [Writing a Microservice in Rust](http://www.goldsborough.me/rust/web/tutorial/2018/01/20/17-01-11-writing_a_microservice_in_rust/)
+    - [Command line apps in Rust](https://rust-cli.github.io/book/index.html)
+    - [Build Your Own Shell using Rust](https://www.joshmcguigan.com/blog/build-your-own-shell-rust/)
 
 ### Swift
 
