@@ -48,6 +48,7 @@
 ### Android
 
 - 视频
+    - [Android Healthcare Project](https://www.youtube.com/watch?v=9CkpMm-n5iA)
     - [Built a basketball scores App](https://www.udacity.com/course/android-basics-user-input--ud836)
     - [Food App Android Design](https://www.youtube.com/watch?v=9nWcPPHBzMk)
     - [Making Weather App in Android Studio](https://www.youtube.com/watch?v=q7NF-2gtfEU)
@@ -58,20 +59,18 @@
 - Google Cloud Platform
     - Backend
     - [Building a serverless DevOps pipeline for Salesforce with Cloud Build](https://cloud.google.com/architecture/building-a-serverless-devops-pipeline-for-salesforce)
-    - [Building an e-commerce recommendation system by using BigQuery ML](https://cloud.google.com/architecture/building-a-recommendation-system-with-bigqueryml)
-    - [Building a headless ecommerce platform on Google Cloud](https://cloud.google.com/architecture/building-headless-ecommerce-platform?hl=en&skip_cache=true)
-    - [Building a real-time embeddings similarity matching system](https://cloud.google.com/architecture/building-real-time-embeddings-similarity-matching-system)
-    - [Categorizing audio content using machine learning](https://cloud.google.com/architecture/categorizing-audio-files-using-ml)
-    - [Continuous delivery pipelines with Spinnaker and GKE](https://cloud.google.com/architecture/continuous-delivery-spinnaker-kubernetes-engine)
-    - [Creating Custom Interactive Dashboards with Bokeh and BigQuery](https://cloud.google.com/architecture/bokeh-and-bigquery-dashboards?hl=en)
+    - [Continuous delivery pipelines with Spinnaker and GKE](https://www.cloudskillsboost.google/focuses/552?parent=catalog)
+    - [Creating Custom Interactive Dashboards with Bokeh and BigQuery](https://matematika.org/clouds/google/qwiklabs/data-science-on-google-cloud-platform-machine-learning/creating-custom-interactive-dashboards-with-bokeh-and-bigquery/)
     - [Creating a CI/CD pipeline with Azure Pipelines and Google Kubernetes Engine](https://cloud.google.com/architecture/creating-cicd-pipeline-vsts-kubernetes-engine)
     - [Building multi-architecture container images for IoT devices](https://cloud.google.com/architecture/building-multi-architecture-container-images-iot-devices-tutorial)
     - [Creating a unified app analytics platform using Firebase, BigQuery, and Looker](https://cloud.google.com/architecture/creating-unified-app-analytics-platform)
     - Machine Learning
     - [Architecture of a machine learning system for near real-time item matching](https://cloud.google.com/architecture/real-time-item-matching)
+    - [Building a Fraud Detection Model with Vertex AI AutoML](https://www.cloudskillsboost.google/catalog_lab/4336)
     - [Building a secure anomaly detection solution using Dataflow, BigQuery ML, and Cloud Data Loss Prevention](https://cloud.google.com/architecture/building-anomaly-detection-dataflow-bigqueryml-dlp)
     - [Building a k-means clustering model for market segmentation by using BigQuery ML ](https://cloud.google.com/architecture/building-k-means-clustering-model)
     - [Building a ML vision analytics solution with Dataflow and Cloud Vision API](https://cloud.google.com/architecture/building-a-vision-analytics-solution)
+    - [Categorizing audio content using machine learning](https://cloud.google.com/architecture/categorizing-audio-files-using-ml)
     - Mobile
     - [Build an Android App Using Firebase and the App Engine Flexible Environment](https://cloud.google.com/architecture/mobile-firebase-app-engine-flexible)
     - [Build an iOS App Using Firebase and the App Engine Flexible Environment](https://cloud.google.com/architecture/mobile-firebase-app-engine-flexible-ios)
