@@ -69,8 +69,9 @@
     - [Building a Fraud Detection Model with Vertex AI AutoML](https://www.cloudskillsboost.google/catalog_lab/4336)
     - [Building a secure anomaly detection solution using Dataflow, BigQuery ML, and Cloud Data Loss Prevention](https://cloud.google.com/architecture/building-anomaly-detection-dataflow-bigqueryml-dlp)
     - [Building a k-means clustering model for market segmentation by using BigQuery ML ](https://cloud.google.com/architecture/building-k-means-clustering-model)
-    - [Building a ML vision analytics solution with Dataflow and Cloud Vision API](https://cloud.google.com/architecture/building-a-vision-analytics-solution)
+    - [Building an ML vision analytics solution with Dataflow and Vision AI API](https://cloud.google.com/architecture/building-a-vision-analytics-solution)
     - [Categorizing audio content using machine learning](https://cloud.google.com/architecture/categorizing-audio-files-using-ml)
+    - [Detecting anomalies in financial transactions by using AI Platform, Dataflow, and BigQuery](https://cloud.google.com/architecture/detecting-anomalies-in-financial-transactions)
     - Mobile
     - [Build an Android App Using Firebase and the App Engine Flexible Environment](https://cloud.google.com/architecture/mobile-firebase-app-engine-flexible)
     - [Build an iOS App Using Firebase and the App Engine Flexible Environment](https://cloud.google.com/architecture/mobile-firebase-app-engine-flexible-ios)
