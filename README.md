@@ -126,7 +126,6 @@
 ### Go
 
 - 文字
-    - [A Guide to Golang E-Commerce](https://snipcart.com/blog/golang-ecommerce-ponzu-cms-demo?utm_term=golang-ecommerce-ponzu-cms-demo)
     - [A Million WebSockets and Go](https://www.freecodecamp.org/news/million-websockets-and-go-cc58418460bb/)
     - [Build a concurrent TCP server in Go](https://opensource.com/article/18/5/building-concurrent-tcp-server-go)
     - [Building a high performance JSON parser](https://dave.cheney.net/high-performance-json.html)
@@ -136,6 +135,7 @@
     - [Building Go Web Applications and Microservices Using Gin](https://semaphoreci.com/community/tutorials/building-go-web-applications-and-microservices-using-gin)
     - [Create A Real Time Chat App With Golang, Angular, And Websockets](https://www.thepolyglotdeveloper.com/2016/12/create-real-time-chat-app-golang-angular-2-websockets/)
     - [How To Create Your Own CLI](https://itnext.io/how-to-create-your-own-cli-with-golang-3c50727ac608)
+    - [Golang Ecommerce - Complete Project In GO](https://www.youtube.com/watch?v=7hOfR6wHMaw)
     - [Writing A Web Crawler in Golang](https://edmundmartin.com/writing-a-web-crawler-in-golang/)
     - [250 行实现一个简单的 MVVM](https://saul-mirone.github.io/2016/12/19/simple-mvvm/)
     - [从零开始实现一个 RPC 框架](https://juejin.im/post/5c7b9967518825470368d8d4)
