@@ -235,6 +235,7 @@
     - [Full Stack Food Delivery App - React Redux Reducer, Firebase | For Beginners](https://www.youtube.com/watch?v=kmU7uX3ZHJc)
     - [Let's Build a Full-Stack AMAZON Clone with REACT JS for Beginners](https://www.youtube.com/watch?v=RDV3Z1KCBvo)
     - [Let's Build the Netflix App in React Native & AWS Amplify](https://www.youtube.com/watch?v=CNaLOa-6X7U)
+    - [Let’s build TRELLO 2.0 with REACT!](https://www.youtube.com/watch?v=TI2AvfCj5oM)
     - [Let's build Uber 2.0 with REACT NATIVE! (Navigation, Redux, Tailwind CSS & Google Autocomplete)](https://www.youtube.com/watch?v=bvn_HYpix6s)
     - [React Crash Course - Build A Full Recipe App Tutorial](https://www.youtube.com/watch?v=xc4uOzlndAk)
     - [React JS to build a News App](https://www.udemy.com/course/react-tutorial/)
