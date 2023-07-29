@@ -310,6 +310,12 @@
     - [零基础玩转高并发图片爬虫](https://study.163.com/course/courseMain.htm?courseId=1006148015)
     - [天天生鲜 Django 项目](https://www.bilibili.com/video/av41733850)
 
+### Ruby
+
+- 视频
+    - [Ruby on Rails E-Commerce For Beginners](https://www.youtube.com/watch?v=BMcF0yQ9dWg&list=PLl8zUt1K8heUDsRDGwXw-tj_6WJZOnENt&index=1)
+    - [Build A Real Estate / Property App](https://www.youtube.com/watch?v=qvGGz-2WHpU)
+
 ### Rust
 
 - 文字
