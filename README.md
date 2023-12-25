@@ -59,11 +59,16 @@
 - Google Cloud Platform
     - Backend
     - [Building a serverless DevOps pipeline for Salesforce with Cloud Build](https://cloud.google.com/architecture/building-a-serverless-devops-pipeline-for-salesforce)
+    - [Build a document processing pipeline with Workflows](https://cloud.google.com/document-ai/docs/workflows)
+    - [Building an ML vision analytics solution with Dataflow and Cloud Vision API](https://cloud.google.com/architecture/building-a-vision-analytics-solution)
+    - [Build and visualize demand forecast predictions using Datastream, Dataflow, BigQuery ML, and Looker](https://cloud.google.com/architecture/build-visualize-demand-forecast-prediction-datastream-dataflow-bigqueryml-looker)
+    - [Build a smart API to predict customer propensity to purchase by using Apigee, BigQuery ML, and Cloud Spanner](https://cloud.google.com/architecture/build-smart-api-predict-customer-purchase-apigee-bigquery-ml-cloud-spanner/deployment)
+    - [Building multi-architecture container images for IoT devices](https://cloud.google.com/architecture/building-multi-architecture-container-images-iot-devices-tutorial)
     - [Continuous delivery pipelines with Spinnaker and GKE](https://www.cloudskillsboost.google/focuses/552?parent=catalog)
     - [Creating Custom Interactive Dashboards with Bokeh and BigQuery](https://matematika.org/clouds/google/qwiklabs/data-science-on-google-cloud-platform-machine-learning/creating-custom-interactive-dashboards-with-bokeh-and-bigquery/)
     - [Creating a CI/CD pipeline with Azure Pipelines and Google Kubernetes Engine](https://cloud.google.com/architecture/creating-cicd-pipeline-vsts-kubernetes-engine)
-    - [Building multi-architecture container images for IoT devices](https://cloud.google.com/architecture/building-multi-architecture-container-images-iot-devices-tutorial)
     - [Creating a unified app analytics platform using Firebase, BigQuery, and Looker](https://cloud.google.com/architecture/creating-unified-app-analytics-platform)
+    - [Deploy a CI/CD pipeline for data-processing workflows](https://cloud.google.com/architecture/cicd-pipeline-for-data-processing/deployment)
     - Machine Learning
     - [Architecture of a machine learning system for near real-time item matching](https://cloud.google.com/architecture/real-time-item-matching)
     - [Building a Fraud Detection Model with Vertex AI AutoML](https://www.cloudskillsboost.google/catalog_lab/4336)
