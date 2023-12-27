@@ -325,13 +325,16 @@
 ### Rust
 
 - 文字
-    - [Let's build a browser engine!](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
-    - [Writing a Microservice in Rust](http://www.goldsborough.me/rust/web/tutorial/2018/01/20/17-01-11-writing_a_microservice_in_rust/)
-    - [Command line apps in Rust](https://rust-cli.github.io/book/index.html)
     - [Build Your Own Shell using Rust](https://www.joshmcguigan.com/blog/build-your-own-shell-rust/)
+    - [Command line apps in Rust](https://rust-cli.github.io/book/index.html)
+    - [Let's build a browser engine!](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
+    - [The Adventures of OS: Making a RISC-V Operating System using Rust](https://osblog.stephenmarz.com/index.html)
+    - [Writing a Microservice in Rust](http://www.goldsborough.me/rust/web/tutorial/2018/01/20/17-01-11-writing_a_microservice_in_rust/)
 
 ### Swift
 
 - 视频
     - [Build a On the Map App](https://www.udacity.com/course/ios-networking-with-swift--ud421)
+    - [Beginners E-commerce App with SwiftUI](https://www.youtube.com/watch?v=jp2PbpzdZ9A)
+    - [Build Instagram App](https://www.youtube.com/watch?v=Yv62q3c3UxI&list=PL5PR3UyfTWvfhKNQkT3Wgq6QIIWRJyxM3)
 
