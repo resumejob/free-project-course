@@ -7,7 +7,7 @@
 
 <h4 align="center">
   <a href="https://osjobs.net/co/">
-    海外兔小班教学帮助你高效准备面试，学员大厂率超过 50%，入职不成功不收费。
+    海外兔小班教学帮助你高效准备面试，学员大厂率超过 65%，入职不成功不收费。
   </a>
 </h4>
 
@@ -18,15 +18,21 @@
 | 简历例句     | <a href="https://github.com/resumejob/awesome-resume">https://github.com/resumejob/awesome-resume</a>      |
 | 大厂高频面经面试题      | <a href="https://osjobs.net/topk/">https://osjobs.net/topk/</a>      |
 
-## Free Online Course
+- 通过有影响力的项目经验提高简历竞争力，并且通过实践项目掌握新技能
+- 有时候，免费的资源可能是最好的选择。我们精选了大量在线课程和技术博客，为您提供最优质的免费实战项目。
+- 如果您在课程中遇到以下情况，请提交问题反馈。
+    - 付费课程：需要支付费用才能完整学习的课程；
+    - 过时课程：课程中使用的工具版本、API或数据集已经过时；
+    - 课程错误：课程中存在明显错误或内容不一致。
+- 下列课程按字母A至Z的顺序排列。
 
-1. If you want to highlight your resume with meaningful project experience, or you want to learn new skills by the new project, here's the right place!
-2. Sometimes free can be the best. We selected a large number of online courses and tech blogs to present the best free real projects for you.
-3. If a course involves the following situations, please submit an issue.
-3.1 Paid course: course you need to pay for a full study;
-3.2 Obsolete course: tool version, APIs or datasets used in the course is out of date;
-3.3 Inaccurate course: course has an apparent error or is inconsistent.
-4. The following course is in order from A~Z.
+- Elevate your resume with impactful project experience or master new skills through hands-on projects—this is your gateway to growth!
+- Sometimes free can be the best. We selected a large number of online courses and tech blogs to present the best free real projects for you.
+- If a course involves the following situations, please submit an issue.
+    - Paid course: course you need to pay for a full study;
+    - Obsolete course: tool version, APIs or datasets used in the course is out of date;
+    - Inaccurate course: course has an apparent error or is inconsistent.
+- The following course is in order from A~Z.
 
 
 ### Table Of Contents
