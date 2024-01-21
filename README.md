@@ -197,6 +197,7 @@
     - [Developing Database Application using Spring MVC and MyBatis](https://www.udemy.com/course/developing-database-application-using-spring-mvc-and-mybatis/)
     - [Full Stack web application using Spring Boot and React | REST API | MySQL | React Hooks](https://www.youtube.com/watch?v=O_XL9oQ1_To)
     - [DRP 实战项目](https://study.163.com/course/courseMain.htm?courseId=1003842285)
+    - [Java Full-Stack: Hotel Booking App With Spring Boot, Spring Security & Reactjs](https://www.youtube.com/watch?v=0XJu4Nnl0Kc)
     - [Servlet + Ajax 实现搜索框智能提示](https://www.imooc.com/learn/678)
     - [Spring Boot Full Stack with Angular](https://www.youtube.com/watch?v=Gx4iBLKLVHk)
     - [SpringCloud + Vue 项目实战——社交项目](https://www.bilibili.com/video/av63499215)
