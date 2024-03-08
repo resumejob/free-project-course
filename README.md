@@ -212,6 +212,7 @@
 ### Javascript
 
 - 文字
+    - [Build a Real-Time Miro Clone With Nextjs, React, Tailwind (2024)](https://www.youtube.com/watch?v=ADJKbuayubE)
     - [Blockcode: A visual programming toolkit](https://www.aosabook.org/en/500L/blockcode-a-visual-programming-toolkit.html)
     - [Build A Real-Time Twitter Stream with Node and React.js](https://scotch.io/tutorials/build-a-real-time-twitter-stream-with-node-and-react-js)
     - [How to Build A Blockchain in Javascript](https://freestartupkits.com/articles/technology/cryptocurrency-news-and-tips/how-to-build-a-blockchain-in-javascript-in-20-minutes/)
