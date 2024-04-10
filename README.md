@@ -112,21 +112,16 @@
     - [Digital sound and music](http://digitalsoundandmusic.com/chapters/ch5/5-3/)
     - [Kernels 101 – Let’s write a Kernel](https://arjunsreedharan.org/post/82710718100/kernels-101-lets-write-a-kernel)
     - [Let's code a TCP/IP stack](https://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp)
+    - [LLM training in simple, pure C/CUDA](https://github.com/karpathy/llm.c)
     - [Operating Systems: From 0 to 1](https://github.com/tuhdo/os01)
     - [Writing a C Compiler](https://norasandler.com/2017/11/29/Write-a-Compiler.html)
     - [Writing a Linux Debugger](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/)
     - [Write a RPC framework](http://users.cs.cf.ac.uk/Dave.Marshall/C/node33.html#SECTION003310000000000000000)
-    - [实现一个简单的编译器](https://segmentfault.com/a/1190000007408126)
-    - [用 C 编写打字练习软件](https://www.shiyanlou.com/courses/1105)
-    - [用 C 语言编写自己的编程语言](https://www.shiyanlou.com/courses/670)
-    - [缓冲区溢出漏洞实验](https://www.shiyanlou.com/courses/231)
 
 - 视频
     - [Supermarket Billing System Project In C++](https://www.youtube.com/watch?v=xFwwN4lGG0o)
     - [Hotel Management System Project In C++](https://www.youtube.com/watch?v=HarwDzStkLY)
     - [Learn C++ Game Development](https://www.udemy.com/course/learn-c-game-development/)
-    - [C++ 解决迷宫问题](https://www.shiyanlou.com/courses/1218)
-    - [C++ 使用 openGL 实现吃豆人游戏](https://www.shiyanlou.com/courses/1182)
     - [C++ 项目实战](https://www.bilibili.com/video/av62785783)
 
 ### C# 
@@ -182,14 +177,11 @@
     - [How to build an interpreter in Java](https://www.javaworld.com/article/2076921/how-to-build-an-interpreter-in-java--part-1--the-basics.html)
     - [How to create HTTP Server in Java](https://javarevisited.blogspot.com/2015/06/how-to-create-http-server-in-java-serversocket-example.html)
     - [Use Java to build an Interpreter](http://www.craftinginterpreters.com/contents.html)
-    - [Java 开发简单的计算器](https://www.shiyanlou.com/courses/185)
     - [从零开始实现一个简易的Java MVC 框架](https://zzzzbw.cn/post/8)
-    - [搭建第一个 Spring Boot 应用](https://www.shiyanlou.com/courses/1152)
     - [如何设计并实现一个秒杀系统](https://juejin.im/post/5d08d759f265da1b96130702)
     - [如何设计一个秒杀系统](https://github.com/gzc426/Java-Interview/blob/master/%E9%A1%B9%E7%9B%AE%E6%8E%A8%E8%8D%90/%E7%A7%92%E6%9D%80.md)
     - [如何实现一个简单的RPC](https://zhuanlan.zhihu.com/p/36528189)
     - [用java实现一个简单的区块链](https://juejin.im/post/5dddfb826fb9a071735e1ed0)
-    - [自己的 Java 编辑器](https://www.shiyanlou.com/courses/287)
     - [自己动手实现一个简单的JSON解析器](https://www.cnblogs.com/nullllun/p/8358146.html)
 
 - 视频
@@ -272,10 +264,7 @@
 - 文字
     - [A full-featured multi-tenant app with Laravel](https://medium.com/@ashokgelal/a-full-featured-multi-tenant-app-with-laravel-part-1-4049a3cc229d)
     - [Make your own blog](https://ilovephp.jondh.me.uk/en/tutorial/make-your-own-blog)
-    - [Laravel 5.1 搭建博客](https://www.shiyanlou.com/courses/733)
-    - [PHP QRCode 生成二维码](https://www.shiyanlou.com/courses/991)
     - [PHP 实现区块链](https://toutiao.io/posts/gidnf7/preview)
-    - [PHP 实现验证码制作](https://www.shiyanlou.com/courses/986)
     - [ThinkPHP 5.1 构建简易微博](https://www.kancloud.cn/epiclearn/thinkphp)
     - [用 PHP 来实现一个动态 Web 服务器](https://segmentfault.com/a/1190000003029173)
 
@@ -297,14 +286,6 @@
     - [(How to Write a (Lisp) Interpreter (in Python))](https://norvig.com/lispy.html)
     - [How To Build Chatbot Project Using Python](https://hackernoon.com/python-chatbot-project-build-your-first-python-project-5mt30mi)
     - [Scraping Top 50 Movies on IMDb using BeautifulSoup](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1)
-    - [Django 打造文件分享系统](https://www.shiyanlou.com/courses/993)
-    - [Python Flask Web 框架](https://www.shiyanlou.com/courses/29)
-    - [Python 实现简单的 Web 服务器](https://www.shiyanlou.com/courses/552)
-    - [Python 文本解析器](https://www.shiyanlou.com/courses/70)
-    - [PyQt 实现简易浏览器](https://www.shiyanlou.com/courses/705)
-    - [TensorFlow 2 实现 AI 换脸](https://www.shiyanlou.com/courses/1460)
-    - [基于 Flask 与 RethinkDB 实现 TODO List](https://www.shiyanlou.com/courses/359)
-    - [使用 Python 预测 NBA 常规赛结果](https://www.shiyanlou.com/courses/782)
     - [用 Python 从头实现一个神经网络](https://zhuanlan.zhihu.com/p/58964140)
     - [用 Python 实现一个音乐检索器](https://juejin.im/post/5b285d516fb9a00e69608cea)
 
