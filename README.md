@@ -205,15 +205,14 @@
 
 - 文字
     - [Build a Real-Time Miro Clone With Nextjs, React, Tailwind (2024)](https://www.youtube.com/watch?v=ADJKbuayubE)
+    - [Build and Deploy a Modern React 18 Fitness Exercises App With APIs | RapidAPI](https://www.youtube.com/watch?v=KBpoBc98BwM)
     - [Blockcode: A visual programming toolkit](https://www.aosabook.org/en/500L/blockcode-a-visual-programming-toolkit.html)
     - [Build A Real-Time Twitter Stream with Node and React.js](https://scotch.io/tutorials/build-a-real-time-twitter-stream-with-node-and-react-js)
     - [How to Build A Blockchain in Javascript](https://freestartupkits.com/articles/technology/cryptocurrency-news-and-tips/how-to-build-a-blockchain-in-javascript-in-20-minutes/)
     - [How to Build a Chat Application using React, Redux, Redux-Saga, and Web Sockets](https://www.freecodecamp.org/news/how-to-build-a-chat-application-using-react-redux-redux-saga-and-web-sockets-47423e4bc21a/)
-    - [How to Build a Hex Color Generator in JavaScript](https://www.w3docs.com/snippets/javascript/how-to-build-a-hex-color-generator-in-javascript.html)
     - [How to Build a Memory Matching Game in JavaScript](https://scotch.io/tutorials/how-to-build-a-memory-matching-game-in-javascript)
     - [How to build a news app with React Native](https://www.freecodecamp.org/news/create-a-news-app-using-react-native-ced249263627/)
     - [How to Build a Productivity Application in React](https://itnext.io/how-to-build-a-productivity-application-in-react-part-1-9f0c7ee65772)
-    - [How to Build a To-Do App in Vue.js](https://blog.jscrambler.com/build-app-vue-js/)
     - [How to build a reactive engine in JavaScript](https://www.monterail.com/blog/2016/how-to-build-a-reactive-engine-in-javascript-part-1-observable-objects)
     - [How to build your custom JS IDE in the browser](https://blog.usejournal.com/how-to-build-your-custom-js-ide-in-the-browser-838a51c654bd)
     - [Let’s learn how modern JavaScript frameworks work by building one](https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/)
