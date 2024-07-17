@@ -277,9 +277,8 @@
 ### Python
 
 - 文字
+    - [LLM101n: Let's build a Storyteller](https://github.com/karpathy/LLM101n)
     - [A Continuous Integration System](https://www.aosabook.org/en/500L/a-continuous-integration-system.html)
-    - [Build a Bucketlist List with Flask](https://scotch.io/tutorials/build-a-restful-api-with-flask-the-tdd-way)
-    - [Build a RESTful API with Flask – The TDD Way](http://www.obeythetestinggoat.com/)
     - [Build a full stack web application. Next.JS and Django Project](https://www.youtube.com/watch?v=zS3vKMbsUfY)
     - [Get Started With Django Part 1: Build a Portfolio App](https://realpython.com/get-started-with-django-1/#share-your-knowledge-with-a-blog)
     - [(How to Write a (Lisp) Interpreter (in Python))](https://norvig.com/lispy.html)
