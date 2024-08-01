@@ -64,6 +64,7 @@
 
 - Google Cloud Platform
     - Backend
+    - [Build a BI Dashboard Using Looker Studio and BigQuery](https://www.cloudskillsboost.google/catalog_lab/1738)
     - [Building a serverless DevOps pipeline for Salesforce with Cloud Build](https://cloud.google.com/architecture/building-a-serverless-devops-pipeline-for-salesforce)
     - [Build a document processing pipeline with Workflows](https://cloud.google.com/document-ai/docs/workflows)
     - [Building an ML vision analytics solution with Dataflow and Cloud Vision API](https://cloud.google.com/architecture/building-a-vision-analytics-solution)
@@ -76,6 +77,7 @@
     - [Creating a unified app analytics platform using Firebase, BigQuery, and Looker](https://cloud.google.com/architecture/creating-unified-app-analytics-platform)
     - [Deploy a CI/CD pipeline for data-processing workflows](https://cloud.google.com/architecture/cicd-pipeline-for-data-processing/deployment)
     - Machine Learning
+    - [Analyzing Movie Posters in BigQuery with Remote Models](https://www.cloudskillsboost.google/catalog_lab/31374)
     - [Architecture of a machine learning system for near real-time item matching](https://cloud.google.com/architecture/real-time-item-matching)
     - [Building a Fraud Detection Model with Vertex AI AutoML](https://www.cloudskillsboost.google/catalog_lab/4336)
     - [Building a secure anomaly detection solution using Dataflow, BigQuery ML, and Cloud Data Loss Prevention](https://cloud.google.com/architecture/building-anomaly-detection-dataflow-bigqueryml-dlp)
@@ -150,7 +152,6 @@
     - [GOLANG + REACT - SAAS PROJECT](https://www.youtube.com/watch?v=IX0vKYZUnP4)
     - [GOLANG PROJECT - Restaurant Management Backend](https://www.youtube.com/watch?v=QQfyTmz3a18&list=PLQ9_95hffac8_0bj5oeCe4FdxeNZi0UJ2)
     - [Go 开发企业级内容管理平台](https://www.imooc.com/coursescore/1162)
-    - [Go 开发短地址服务](https://www.imooc.com/coursescore/1150)
     - [Golang 微信小程序微商城系统原型](https://www.imooc.com/learn/1151)
     - [基于 Gin 框架和 gorm 的 web 开发实战](https://www.bilibili.com/video/av82949383)
 
@@ -168,7 +169,6 @@
     - [Canvas 绘制时钟](https://www.imooc.com/learn/612)
     - [HTML5 开发项目实战:地铁计价器](https://www.jikexueyuan.com/course/451.html)
     - [HTML5 音乐可视化](https://www.imooc.com/learn/299)
-    - [手把手用 Bootstrap4 实现机构首页](https://study.163.com/course/introduction.htm?courseId=1005454015)
     - [炫丽的倒计时效果 Canvas 绘图与动画基础](https://www.imooc.com/learn/133)
 
 ### Java
@@ -182,7 +182,6 @@
     - [如何设计一个秒杀系统](https://github.com/gzc426/Java-Interview/blob/master/%E9%A1%B9%E7%9B%AE%E6%8E%A8%E8%8D%90/%E7%A7%92%E6%9D%80.md)
     - [如何实现一个简单的RPC](https://zhuanlan.zhihu.com/p/36528189)
     - [用java实现一个简单的区块链](https://juejin.im/post/5dddfb826fb9a071735e1ed0)
-    - [自己动手实现一个简单的JSON解析器](https://www.cnblogs.com/nullllun/p/8358146.html)
 
 - 视频
     - [Build a Classical Music Quiz app that renders audio and video](https://cn.udacity.com/course/advanced-android-app-development--ud855)
@@ -218,7 +217,6 @@
     - [Let’s learn how modern JavaScript frameworks work by building one](https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/)
     - [React Tutorial: Cloning Yelp](https://www.newline.co/fullstack-react/articles/react-tutorial-cloning-yelp/)
     - [React 全家桶实现一个简易备忘录](https://juejin.im/post/587b52d8570c352201fd993d)
-    - [14 篇教程带你从零撸一个 Todo 应用](https://www.zmrenwu.com/courses/vue2x-todo-tutorial/materials/38/)
     - [从零开始实现一个 React](https://github.com/hujiulong/blog/issues/4)
     - [利用 Vue 原理实现一个 mini 版的 MVVM 框架](https://zhuanlan.zhihu.com/p/51184264)
     - [如何实现一个简易编译器](http://ifanqi.top/2017/07/03/how-to-write-compiler/)
@@ -300,7 +298,6 @@
     - [Python Website Full Tutorial - Flask, Authentication, Databases & More](https://www.youtube.com/watch?v=dam0GPOAvVI)
     - [Python 开发简单爬虫](https://www.imooc.com/learn/563)
     - [Python 爬虫基础教程](https://www.bilibili.com/video/av17920849)
-    - [零基础玩转高并发图片爬虫](https://study.163.com/course/courseMain.htm?courseId=1006148015)
     - [天天生鲜 Django 项目](https://www.bilibili.com/video/av41733850)
 
 ### Ruby
