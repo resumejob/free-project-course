@@ -286,6 +286,7 @@
     - [用 Python 实现一个音乐检索器](https://juejin.im/post/5b285d516fb9a00e69608cea)
 
 - 视频
+    - [Building LLMs from the Ground Up: A 3-hour Coding Workshop](https://www.youtube.com/watch?v=quh7z1q7-uc)
     - [Beginner Python and Coding Intro - Scripting a Virtual Car](https://www.udemy.com/course/beginner-programming-intro-python-self-driving-car/)
     - [Build natural language processing systems using TensorFlow](https://www.coursera.org/specializations/tensorflow-in-practice)
     - [Django Ecommerce Website | Setup & Templates | Part 1](https://www.youtube.com/watch?v=_ELCMngbM0E)
