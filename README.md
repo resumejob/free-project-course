@@ -275,6 +275,7 @@
 ### Python
 
 - 文字
+    - [Web Browser Engineering](https://browser.engineering/index.html)
     - [LLM101n: Let's build a Storyteller](https://github.com/karpathy/LLM101n)
     - [A Continuous Integration System](https://www.aosabook.org/en/500L/a-continuous-integration-system.html)
     - [Build a full stack web application. Next.JS and Django Project](https://www.youtube.com/watch?v=zS3vKMbsUfY)
