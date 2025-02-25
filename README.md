@@ -17,6 +17,7 @@
 | ----------- | ----------- |
 | 简历例句     | <a href="https://github.com/resumejob/awesome-resume">https://github.com/resumejob/awesome-resume</a>      |
 | 大厂高频面经面试题      | <a href="https://osjobs.net/topk/">https://osjobs.net/topk/</a>      |
+| 算法面试前一周准备攻略      | <a href="https://www.nlogk.com/">https://www.nlogk.com/</a>      |
 
 - 通过有影响力的项目经验提高简历竞争力，并且通过实践项目掌握新技能
 - 有时候，免费的资源可能是最好的选择。我们精选了大量在线课程和技术博客，为您提供最优质的免费实战项目。
